@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # ADDUSER - add a new user to the system, including building their
 #           home directory, copying in default config data, etc.
